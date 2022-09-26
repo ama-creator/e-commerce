@@ -234,7 +234,7 @@ button {
 }
 
 .header-navigation__contacts-title::before {
-  background: url("../img/phonereceiver_9.svg") no-repeat 0 0/contain;
+  background: url("/../img/phonereceiver_9.svg") no-repeat 0 0/contain;
   content: "";
   position: absolute;
   left: 0;
