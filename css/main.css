@@ -234,7 +234,7 @@ button {
 }
 
 .header-navigation__contacts-title::before {
-  background: url("/img/phonereceiver_9.svg") no-repeat 0 0/contain;
+  background: url("../img/phonereceiver_9.svg") no-repeat 0 0/contain;
   content: "";
   position: absolute;
   left: 0;
@@ -282,7 +282,7 @@ button {
 }
 
 .header-filter__btn::before {
-  background: url("/img/screwdriver_wre.svg");
+  background: url("../img/screwdriver_wre.svg");
   content: "";
   position: absolute;
   left: 70px;
@@ -592,7 +592,7 @@ button {
 }
 
 .offer-products__item-btn::before {
-  background: url("//img/basket.svg") no-repeat center/contain;
+  background: url("../img/basket.svg") no-repeat center/contain;
   content: "";
   position: absolute;
   left: 15px;
@@ -690,7 +690,7 @@ button {
 }
 
 .offer-btn::before {
-  background: url("/img/Frame.svg") no-repeat 0 0/cover;
+  background: url("../img/Frame.svg") no-repeat 0 0/cover;
   content: "";
   position: absolute;
   height: 16px;
@@ -719,7 +719,7 @@ button {
 }
 
 .configs {
-  background: url("././img/configs-bg.png") no-repeat center center/cover;
+  background: url("../img/configs-bg.png") no-repeat center center/cover;
   padding: 129px 0;
 }
 
@@ -757,7 +757,7 @@ button {
 }
 
 .configs-btn::before {
-  background: url("/./img/info.png") no-repeat 0 0/contain;
+  background: url("../img/info.png") no-repeat 0 0/contain;
   content: "";
   position: absolute;
   height: 16px;
@@ -960,7 +960,7 @@ button {
 }
 
 .about-box__item:before {
-  background: url("/./img/3767.png") no-repeat center/cover;
+  background: url("../img/3767.png") no-repeat center/cover;
   content: "";
   position: absolute;
   top: 0;
@@ -1081,7 +1081,7 @@ button {
 }
 
 .benefits::before {
-  background: url("../../img/карта.png") no-repeat center center/contain;
+  background: url("../img/карта.png") no-repeat center center/contain;
   content: "";
   position: absolute;
   bottom: 0;
@@ -1241,7 +1241,7 @@ button {
 
 .footer-end-phone::before,
 .footer-top__contacts-phone::before {
-  background: url("./img/phonereceiver_9.png") no-repeat center/contain;
+  background: url("../img/phonereceiver_9.png") no-repeat center/contain;
   content: "";
   position: absolute;
   width: 16px;
@@ -1301,40 +1301,40 @@ button {
 
 @supports (-webkit-appearance:none) {
   .header-navigation__contacts-title::before {
-    background-image: url("./img/phonereceiver_9.svg");
+    background-image: url("../img/phonereceiver_9.svg");
   }
 
   .header-filter__btn::before {
-    background-image: url("./img/screwdriver_wre.svg");
+    background-image: url("../img/screwdriver_wre.svg");
   }
 
   .offer-products__item-btn::before {
-    background-image: url("./img/basket.svg");
+    background-image: url("../img/basket.svg");
   }
 
   .offer-btn::before {
-    background-image: url("./img/Frame.svg");
+    background-image: url("../img/Frame.svg");
   }
 
   .configs {
-    background-image: url("./img/configs-bg.webp");
+    background-image: url("../img/configs-bg.webp");
   }
 
   .configs-btn::before {
-    background-image: url("./img/info.webp");
+    background-image: url("../img/info.webp");
   }
 
   .about-box__item:before {
-    background-image: url("./img/3767.webp");
+    background-image: url("../img/3767.webp");
   }
 
   .benefits::before {
-    background-image: url("./img/карта.webp");
+    background-image: url("../img/карта.webp");
   }
 
   .footer-end-phone::before,
   .footer-top__contacts-phone::before {
-    background-image: url("./img/phonereceiver_9.webp");
+    background-image: url("../img/phonereceiver_9.webp");
   }
 }
 
